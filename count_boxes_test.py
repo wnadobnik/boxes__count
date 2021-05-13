@@ -94,7 +94,5 @@ class TextBoxes(unittest.TestCase):
             count_boxes(101)
 
 
-
-
 if __name__ == '__main__':
     unittest.main()
